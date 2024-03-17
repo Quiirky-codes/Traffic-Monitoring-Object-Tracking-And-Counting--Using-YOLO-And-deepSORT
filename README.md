@@ -33,7 +33,7 @@ This project implements a traffic monitoring system using YOLOv4 for object dete
 
 ## Usage
 
-1. Run the `trafficMonitor.py` script:python trafficMonitor.py
+1. Run the `trafficMonitor.py` script:python trafficMonitor.py.
 
 2. Adjust detection and tracking parameters as needed in the configuration files.
 
