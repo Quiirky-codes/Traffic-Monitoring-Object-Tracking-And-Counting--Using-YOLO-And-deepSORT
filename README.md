@@ -39,7 +39,10 @@ This project implements a traffic monitoring system using YOLOv4 for object dete
 
 3. Monitor the output video stream for detected and tracked vehicles.
 
+# Contributors
 
+* [Amith M Jain](https://github.com/Quiirky-codes)
+* [Anand Annapur G V](https://github.com/AnandAnnapur)
 
 
 
