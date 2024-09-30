@@ -43,6 +43,7 @@ This project implements a traffic monitoring system using YOLOv4 for object dete
 
 * [Amith M Jain](https://github.com/Quiirky-codes)
 * [Anand Annapur G V](https://github.com/AnandAnnapur)
+* [Srushti Mahesh](https://github.com/srushti2432)
 
 
 
